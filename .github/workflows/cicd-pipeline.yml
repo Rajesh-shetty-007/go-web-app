@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths-ignore:
-      - 'helm/**'
+      - 'go-web-app-chart/**'
       - 'k8s/**'
       - 'README.md'
 
